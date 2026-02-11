@@ -39,7 +39,7 @@ Replace `your.email@yajamanamsreekar.com` with your actual email in:
 #### Social Links
 Update these URLs with your actual profiles:
 - LinkedIn: `https://linkedin.com/in/sreekar-yajamanam`
-- GitHub: `https://github.com/sreekar-yajamanam`
+- GitHub: `https://github.com/Sreekar9550`
 
 #### Calendly Links
 Replace with your Calendly URLs:
